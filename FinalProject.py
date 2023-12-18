@@ -8,7 +8,7 @@ I have not copied the code from a student or any source.
 I have not given my code to any student.
 """
 import streamlit as st
-import matplotlib.pyplot as plt
+'''import matplotlib.pyplot as plt''' # will not display plt
 import pandas as pd
 import pydeck as pyd
 
